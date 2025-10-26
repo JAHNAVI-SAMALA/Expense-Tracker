@@ -34,6 +34,16 @@ Click "Done" to save progress and exit.
 - Robust handling of group split expenses  
 - Simple, intuitive interface for everyday usage  
 
+## Demo Walkthrough
+
+1. Run `python expense_tracker_gui.py`
+2. Login or create a new user
+3. Add an expense and a splitwise transaction
+4. View balance and receivables updating in real time
+5. Delete a transaction if needed
+6. Click Done to save and exit
+
+
 ---
 
 This project demonstrates skills in object-oriented design, GUI development, and modular architecture suitable for real-world applications and resume showcase.
